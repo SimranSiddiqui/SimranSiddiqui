@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simransiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="simransiddiqui" /> </p>
 
-- 🔭 I’m currently learning **Full Stack Web Development**
-
-- 💬 Ask me about **C++, Javascript**
-
 - 📫 How to reach me **simransidd005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
