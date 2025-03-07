@@ -1,6 +1,6 @@
 <!--[![@simransiddiqui's Holopin board](https://holopin.me/simransiddiqui)](https://holopin.io/@simransiddiqui)-->
 <h1 align="center">Hi 👋, I'm Simran Siddiqui</h1>
-<h3 align="center">A Computer Science Student with a knack for problem solving.</h3>
+<h3 align="center">i don't know what i'm doing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simransiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="simransiddiqui" /> </p>
 
